@@ -80,7 +80,7 @@ public class Main {
     /** Method 7
      * Method name: fahrenheitToCelsius
      * Method return type: double
-     * Method parameter: degrees fuyegciwuybgciuwyg
+     * Method parameter: degrees
      * Method signature: fahrenheitToCelsius(int)
      * Returns the degrees equivalent of the degrees in fahrenheit */
     public static double fahrenheitToCelsius(int fahrenheit) {
@@ -97,3 +97,4 @@ public class Main {
         return celsius * 9 / 5.0 + 32;
     }
 }
+
